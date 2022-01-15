@@ -13,7 +13,7 @@
 
 ### Click Below Image To Deploy On
 ### 💙 Heroku 💙
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/aksr-aashish/vexana2.0"><img src="https://telegra.ph/file/4a7d5037bcdd1e74a517a.jpg" width="50"></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/belugaop/Vexana2.0"><img src="https://telegra.ph/file/4a7d5037bcdd1e74a517a.jpg" width="50"></a></p>
 
 
 ### Original Repo?📌
